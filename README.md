@@ -48,7 +48,7 @@ By bilinear pooling, more feature combinations were created so as to classify mi
 ![BCNN](imgs/BCNN.png)
 
 ##### BCNN (modified)
-However, instead of passing to 2 networks, the model used for this projetc was only passing to 1 VGG16 network to reduce processing time. The model architecture is as following:
+However, instead of passing to 2 single networks, the model used for this projetc was only passing to 1 VGG16 network to reduce processing time. The model architecture is as following:
 ![model architecture](imgs/model.png)
 
 The result shows that, bilinear pooling improved the model results significantly, where the validation accuracy increased to 89.2% and testing accuracy increased to 87.8%. The model architecture can be downloaded from [model](https://drive.google.com/open?id=1yZXlgnGRbhPNQ45rrDqwpYrC6Ei8bH_z), and weights can be downloaded from [weights](https://drive.google.com/open?id=1dGqBBalv6RT0hoRgwK9JNT7xz7KfBV4o).
