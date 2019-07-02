@@ -1,6 +1,6 @@
 # Computer Vision Challenge - Stanford Cars
 
-This repository is to build a model to classify cars models using stanford-cars dataset.
+This repository is to build a model to classify car models using stanford-cars dataset.
 
 
 ## Requirements
