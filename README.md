@@ -20,7 +20,7 @@ This repository is to build a model to classify car models using stanford-cars d
 4.  Run `prediction.ipynb` to predict on the testing data.
 
 
-## Solutiin and Results
+## Solution and Results
 
 The challenge is to classify the car models and make using stanford dataset. Unlike traditional image classification problem which is to categorize different objects, such as cats and dogs, trees and cars; this challenge is to classify car model and make within the class. In literature, the problem is called Fine-grained image classification probem. The problem is challenging, because the visual differences between the categories are small and can be easily overwhelmed by those minor difference caused by factors such as pose, viewpoint, or location of the object in the image.
 
