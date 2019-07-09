@@ -59,7 +59,7 @@ The result shows that, bilinear pooling improved the model results significantly
 
 
 ## Further improvements
-1. A bounding box is used to process the raw data. We could use car detection algorithm such as YOLO to localize the cars instead of using human lables.
+1. A bounding box is used to process the raw data. We could use car detection algorithm such as YOLO algorithm to localize the cars instead of using human lables.
 
 2. There are total 196 classes in this dataset. However, each class can be divided into make, model, year. It is possible to first train on make, model, year and then pass into final layer to predict class.
 
